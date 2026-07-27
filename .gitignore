@@ -1,0 +1,7 @@
+deploy/
+.env
+__pycache__/
+*.pyc
+
+# Agent / local scratch dirs (never commit)
+.tmp-*
