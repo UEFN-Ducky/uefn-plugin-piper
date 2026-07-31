@@ -1,7 +1,7 @@
 {
   "id": "piper",
   "kind": "plugin",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "label": "Pipe",
   "description": "Real neural voices that run 100% on your PC \u2014 no API key, offline, free forever. Powered by Piper. Pick a voice per ducky (or as the default); drop your own .onnx voice models in to add more.",
   "min_app_version": "1.0.493",

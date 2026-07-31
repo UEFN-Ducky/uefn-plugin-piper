@@ -42,7 +42,7 @@ _INSTALL_LOCK = threading.Lock()
 
 
 def _appdata() -> Path:
-    from backend.skill import appdata_dir
+    from backend.skills.store import appdata_dir
 
     return appdata_dir()
 
