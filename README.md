@@ -12,3 +12,7 @@ py scripts/build_zip.py
 ```
 
 Writes `deploy/piper-1.0.11.ducky-plugin.zip` (scripts/ and deploy/ are not packed).
+
+## License
+
+MIT. Copyright (c) 2026 Mindful Path Company, LLC. See [LICENSE](LICENSE).
