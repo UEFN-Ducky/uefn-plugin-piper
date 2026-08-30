@@ -1,9 +1,9 @@
 {
   "id": "piper",
   "kind": "plugin",
-  "version": "1.0.12",
+  "version": "1.0.14",
   "label": "Pipe",
-  "description": "Real neural voices that run 100% on your PC \u2014 no API key, offline, free forever. Powered by Piper. Pick a voice per ducky (or as the default); drop your own .onnx voice models in to add more.",
+  "description": "Real neural voices that run 100% on your PC — no API key, offline, free forever. Powered by Piper. Pick a voice per ducky (or as the default); drop your own .onnx voice models in to add more.",
   "min_app_version": "1.0.493",
   "default_enabled": false,
   "secret_keys": [],
@@ -20,7 +20,7 @@
         "tab": "Piper",
         "id": "local",
         "title": "Pipe",
-        "description": "Voices run entirely on this PC \u2014 no API key, no per-word cost. The Piper engine and each voice download automatically the first time they're used (needs internet once, then works fully offline). To add your OWN voice, drop a Piper .onnx model plus its .onnx.json next to the downloaded voices (folder path is in the plugin README) and it appears in the picker.",
+        "description": "Voices run entirely on this PC — no API key, no per-word cost. The Piper engine and each voice download automatically the first time they're used (needs internet once, then works fully offline). To add your OWN voice, drop a Piper .onnx model plus its .onnx.json next to the downloaded voices (folder path is in the plugin README) and it appears in the picker.",
         "order": 10,
         "properties": [
           {
@@ -36,51 +36,51 @@
     "tts.voices": [
       {
         "id": "en_US-lessac-medium",
-        "label": "Lessac \u2014 US, neutral"
+        "label": "Lessac — US, neutral"
       },
       {
         "id": "en_US-amy-medium",
-        "label": "Amy \u2014 US, female"
+        "label": "Amy — US, female"
       },
       {
         "id": "en_US-hfc_female-medium",
-        "label": "HFC Female \u2014 US"
+        "label": "HFC Female — US"
       },
       {
         "id": "en_US-hfc_male-medium",
-        "label": "HFC Male \u2014 US"
+        "label": "HFC Male — US"
       },
       {
         "id": "en_US-ryan-high",
-        "label": "Ryan \u2014 US, male (HQ)"
+        "label": "Ryan — US, male (HQ)"
       },
       {
         "id": "en_US-joe-medium",
-        "label": "Joe \u2014 US, male"
+        "label": "Joe — US, male"
       },
       {
         "id": "en_US-kristin-medium",
-        "label": "Kristin \u2014 US, female"
+        "label": "Kristin — US, female"
       },
       {
         "id": "en_US-kusal-medium",
-        "label": "Kusal \u2014 US"
+        "label": "Kusal — US"
       },
       {
         "id": "en_US-libritts_r-medium",
-        "label": "LibriTTS-R \u2014 US"
+        "label": "LibriTTS-R — US"
       },
       {
         "id": "en_GB-alan-medium",
-        "label": "Alan \u2014 British, male"
+        "label": "Alan — British, male"
       },
       {
         "id": "en_GB-jenny_dioco-medium",
-        "label": "Jenny \u2014 British, female"
+        "label": "Jenny — British, female"
       },
       {
         "id": "en_GB-cori-high",
-        "label": "Cori \u2014 British, female (HQ)"
+        "label": "Cori — British, female (HQ)"
       }
     ],
     "walkthrough": {
@@ -92,7 +92,7 @@
         {
           "target": "settings.tab.pipe",
           "title": "Pipe voices setup",
-          "body": "Offline neural voices run on this PC \u2014 no API key. Press Pipe to open settings.",
+          "body": "Offline neural voices run on this PC — no API key. Press Pipe to open settings.",
           "advance": "require_click",
           "mode": "rect"
         },
