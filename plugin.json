@@ -1,7 +1,7 @@
 {
   "id": "piper",
   "kind": "plugin",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "label": "Pipe",
   "description": "Real neural voices that run 100% on your PC — no API key, offline, free forever. Powered by Piper. Pick a voice per ducky (or as the default); drop your own .onnx voice models in to add more.",
   "min_app_version": "1.0.493",
@@ -81,6 +81,70 @@
       {
         "id": "en_GB-cori-high",
         "label": "Cori — British, female (HQ)"
+      },
+      {
+        "id": "en_US-bryce-medium",
+        "label": "Bryce — US"
+      },
+      {
+        "id": "en_US-john-medium",
+        "label": "John — US"
+      },
+      {
+        "id": "en_US-norman-medium",
+        "label": "Norman — US"
+      },
+      {
+        "id": "en_US-reza_ibrahim-medium",
+        "label": "Reza Ibrahim — US"
+      },
+      {
+        "id": "en_US-sam-medium",
+        "label": "Sam — US"
+      },
+      {
+        "id": "en_US-ljspeech-high",
+        "label": "LJSpeech — US (HQ)"
+      },
+      {
+        "id": "en_US-danny-low",
+        "label": "Danny — US (low)"
+      },
+      {
+        "id": "en_US-kathleen-low",
+        "label": "Kathleen — US (low)"
+      },
+      {
+        "id": "en_US-arctic-medium",
+        "label": "Arctic — US"
+      },
+      {
+        "id": "en_US-l2arctic-medium",
+        "label": "L2-Arctic — US"
+      },
+      {
+        "id": "en_GB-alba-medium",
+        "label": "Alba — British"
+      },
+      {
+        "id": "en_GB-aru-medium",
+        "label": "Aru — British"
+      },
+      {
+        "id": "en_GB-northern_english_male-medium",
+        "label": "Northern English — British, male"
+      },
+      {
+        "id": "en_GB-southern_english_female-low",
+        "label": "Southern English — British, female (low)"
+      },
+      {
+        "id": "en_GB-semaine-medium",
+        "label": "Semaine — British"
+      },
+      {
+        "id": "en_GB-vctk-medium",
+        "label": "VCTK — British"
       }
     ],
     "walkthrough": {
